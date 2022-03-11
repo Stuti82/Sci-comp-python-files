@@ -84,7 +84,7 @@ for ref in ref_n1:
 
 plt.figure('Critical angle')
 plt.plot(ref_n1, critical_angle)
-
+plt.
 
 
 
